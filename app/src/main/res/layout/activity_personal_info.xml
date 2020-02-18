@@ -141,7 +141,6 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="48dp"
-        top
         android:fontFamily="@font/futura_pt_demibold"
         android:layout_marginTop="20dp"
         android:text="Email"

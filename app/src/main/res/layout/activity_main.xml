@@ -85,6 +85,7 @@
         android:layout_marginTop="72dp"
         android:background="@drawable/btn_white_large"
         android:fontFamily="@font/futura_pt_demibold"
+        android:onClick="clickServiceProvider"
         android:text="service provider"
         android:textColor="#F44336"
         app:layout_constraintEnd_toEndOf="parent"
